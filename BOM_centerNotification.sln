@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOM_centerNotification", "BOM_centerNotification\BOM_centerNotification.csproj", "{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0BAFE4C-3968-489D-9884-0B8F3DE0E120}
+	EndGlobalSection
+EndGlobal
