@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BOM_centerNotification.props" />
+</Project>
