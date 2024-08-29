@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 using System.Collections.Concurrent;
+using System.Reflection.Metadata.Ecma335;
 
 namespace BOM_centerNotification.Service
 {
@@ -47,16 +48,24 @@ namespace BOM_centerNotification.Service
             return;
         }
 
-        public async Task<string> getConnectionCliente(string userId)
+        public async Task<List<string>> getConnectionCliente(List<string> userId)
         {
             try
             {
-                _userConnections.TryGetValue(userId, out var connectionId);
-                return connectionId;
+                var listConnectionId = userId.Select(userId =>
+                {
+                    _userConnections.TryGetValue(userId, out var connectionId);
+                    return connectionId ;
+                })
+                .Where(connet => connet is not null)
+                .ToList();
+                
+
+                return listConnectionId!;
             }
             catch (Exception err)
             {
-                return err.Message;
+                return new List<string>();
             }
         }
     }
