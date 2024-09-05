@@ -8,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddHttpClient();
 builder.Services.AddSignalR();
-builder.Services.AddHostedService<queueMessageService>();
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
@@ -29,7 +28,7 @@ builder.Services.AddDbContext<AppDBContext>(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

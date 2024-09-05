@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|solutionrelative:bom_centernotification\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|c:\\users\\3579360\\documents\\programacion\\proyectosjabil\\github\\pruebadeconcepto\\bom_centernotification\\bom_centernotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|solutionrelative:bom_centernotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|c:\\users\\3579360\\documents\\programacion\\proyectosjabil\\github\\pruebadeconcepto\\bom_centernotification\\bom_centernotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|solutionrelative:bom_centernotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3949DAF-5A61-4AF4-ACAE-0F37120F0F11}|BOM_centerNotification\\BOM_centerNotification.csproj|c:\\users\\3579360\\documents\\programacion\\proyectosjabil\\github\\pruebadeconcepto\\bom_centernotification\\bom_centernotification\\service\\notificacionbrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,27 +58,29 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\Program.cs",
+              "RelativeDocumentMoniker": "BOM_centerNotification\\Program.cs",
+              "ToolTip": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\Program.cs",
+              "RelativeToolTip": "BOM_centerNotification\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T22:40:46.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NotificacionBrokerService.cs",
               "DocumentMoniker": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\Service\\NotificacionBrokerService.cs",
               "RelativeDocumentMoniker": "BOM_centerNotification\\Service\\NotificacionBrokerService.cs",
               "ToolTip": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\Service\\NotificacionBrokerService.cs",
               "RelativeToolTip": "BOM_centerNotification\\Service\\NotificacionBrokerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T22:26:55.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\appsettings.json",
-              "RelativeDocumentMoniker": "BOM_centerNotification\\appsettings.json",
-              "ToolTip": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\appsettings.json",
-              "RelativeToolTip": "BOM_centerNotification\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-27T17:26:36.125Z"
+              "WhenOpened": "2024-08-28T22:26:55.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,7 +90,7 @@
               "RelativeDocumentMoniker": "BOM_centerNotification\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\3579360\\Documents\\Programacion\\ProyectosJabil\\gitHub\\PruebaDeConcepto\\BOM_centerNotification\\BOM_centerNotification\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "BOM_centerNotification\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAFAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwIYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T21:33:31.822Z",
               "EditorCaption": ""

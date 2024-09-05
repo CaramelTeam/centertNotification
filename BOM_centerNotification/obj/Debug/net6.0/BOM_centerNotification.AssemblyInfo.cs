@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BOM_centerNotification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4c47e38635ba2ef5eaf3a0c7dd65b03c3fbd7dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d248b71438c2476e22f23b43509608c8e9625458")]
 [assembly: System.Reflection.AssemblyProductAttribute("BOM_centerNotification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BOM_centerNotification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

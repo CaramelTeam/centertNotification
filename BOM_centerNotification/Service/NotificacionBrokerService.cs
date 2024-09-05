@@ -17,10 +17,10 @@ namespace BOM_centerNotification.Service
         {
             var httpContext = Context.GetHttpContext();
             var userId = httpContext.Request.Query["userId"];
-            //var userId = Context.User.Identity.Name; // Asume que estás utilizando la autenticación
+
             if (!string.IsNullOrEmpty(userId))
             {
-                _userConnections[userId] = Context.ConnectionId; // Guarda la conexión del usuario
+                _userConnections[userId] = Context.ConnectionId;
             }
             return base.OnConnectedAsync();
         }
